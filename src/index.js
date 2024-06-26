@@ -1,7 +1,7 @@
-import messages_en from "./translations/en.json";
+import messages_en from "./translations/pt_BR.json";
 
 const DEFAULT_CONFIG = {
-  "translations": [{ key: "en", messages: messages_en }],
+  "translations": [{ key: "pt_BR", messages: messages_pt_BR }],
 }
 
 export const TemplateModule = (cfg) => {
