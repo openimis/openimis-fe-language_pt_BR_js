@@ -1,9 +1,9 @@
-import messages_pt_BR from "./translations/pt_BR.json";
+import messages_pt_br from "./translations/pt-br.json";
 
 const DEFAULT_CONFIG = {
-  "translations": [{ key: "pt_BR", messages: messages_pt_BR }],
+  "translations": [{ key: "pt-br", messages: messages_pt_br }],
 }
 
-export const LanguagePt_BRModule = (cfg) => {
+export const LanguagePtBrModule = (cfg) => {
   return { ...DEFAULT_CONFIG, ...cfg };
 }
