@@ -5,7 +5,7 @@
   "description": "openIMIS Brazilian translation module",
   "repository": "openimis/openimis-fe-language_pt_BR_js",
   "main": "dist/index.js",
-  "module": "dist/index.pt-br.js",
+  "module": "dist/index.pt.js",
   "engines": {
     "node": ">=8",
     "npm": ">=5"
