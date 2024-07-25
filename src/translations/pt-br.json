@@ -3679,5 +3679,7 @@
     "tasksManagement.task.type.accept_payroll": "Aceitar a folha de pagamento",
     "tasksManagement.task.type.payroll_reconciliation": "Reconciliação da folha de pagamento",
     "tasksManagement.task.type.payroll_reject": "Rejeitar a folha de pagamento",
-    "tasksManagement.task.type.payroll_delete": "Excluir a folha de pagamento"
+    "tasksManagement.task.type.payroll_delete": "Excluir a folha de pagamento",
+    "refreshFilterTooltip": "Pesquisar",
+    "groups.searcherResultsTitle": "{groupsTotalCount} grupos encontrados"
 }
